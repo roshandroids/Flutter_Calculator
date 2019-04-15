@@ -9,9 +9,9 @@ class MyApp extends StatelessWidget {
        debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: new ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
-      home: new MyHomePage(title: "Roshan's Calculator"),
+      home: new MyHomePage(title: "CALCULATOR"),
     );
   }
 }
